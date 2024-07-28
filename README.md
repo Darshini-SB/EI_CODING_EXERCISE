@@ -152,6 +152,8 @@ Rotate: Change the orientation of the satellite.
 
 ![WhatsApp Image 2024-07-28 at 18 04 31_42ba6222](https://github.com/user-attachments/assets/4ecd2c74-7e18-4edb-bb51-9a4a7b44b428)
 
+![WhatsApp Image 2024-07-28 at 18 04 41_10fa2afd](https://github.com/user-attachments/assets/5a2e1dd0-1ce5-4a12-b7d9-f909870c2af4)
+
 Activate/Deactivate Panels: Control the solar panels' status.
 
 ![WhatsApp Image 2024-07-28 at 18 05 23_a4276296](https://github.com/user-attachments/assets/c103cbe9-ffb9-4e55-86f9-882e0583b3b8)
@@ -161,6 +163,8 @@ Activate/Deactivate Panels: Control the solar panels' status.
 Collect Data: Collect data if solar panels are active.
 
 ![WhatsApp Image 2024-07-28 at 18 05 58_1734c61b](https://github.com/user-attachments/assets/d45450ba-842a-4151-a92f-453e41690fbd)
+
+![WhatsApp Image 2024-07-28 at 18 06 09_b50d58b4](https://github.com/user-attachments/assets/26091583-2e8c-4d20-8865-9730e463991f)
 
 Display Status: Show the satellite's current state.
 
